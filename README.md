@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/54vawfod3wvgrrd9?svg=true)](https://ci.appveyor.com/project/abatsakidis/php-encoder)
 
 ## Description ##
 
