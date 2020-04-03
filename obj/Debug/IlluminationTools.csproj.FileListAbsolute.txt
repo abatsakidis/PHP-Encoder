@@ -1,0 +1,10 @@
+C:\Users\mantis\Desktop\IlluminationTools\bin\Debug\IlluminationTools.exe
+C:\Users\mantis\Desktop\IlluminationTools\bin\Debug\IlluminationTools.pdb
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\IlluminationTools.csprojAssemblyReference.cache
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\IlluminationTools.FolderBrowser.FolderSelChangedEventArgs.resources
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\IlluminationTools.FrmIlluminationTools.resources
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\IlluminationTools.Properties.Resources.resources
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\IlluminationTools.csproj.GenerateResource.cache
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\IlluminationTools.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\IlluminationTools.exe
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\IlluminationTools.pdb

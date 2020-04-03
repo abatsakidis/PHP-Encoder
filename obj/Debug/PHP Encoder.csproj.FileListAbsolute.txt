@@ -1,0 +1,10 @@
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\IlluminationTools.FolderBrowser.FolderSelChangedEventArgs.resources
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\IlluminationTools.Main.resources
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\PHP Encoder.csproj.GenerateResource.cache
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\PHP Encoder.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\PHP Encoder.csprojAssemblyReference.cache
+C:\Users\mantis\Desktop\IlluminationTools\bin\Debug\PHP_Encode.exe
+C:\Users\mantis\Desktop\IlluminationTools\bin\Debug\PHP_Encode.pdb
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\PHP_Encode.Properties.Resources.resources
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\PHP_Encode.exe
+C:\Users\mantis\Desktop\IlluminationTools\obj\Debug\PHP_Encode.pdb
